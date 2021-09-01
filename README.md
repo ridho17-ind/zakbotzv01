@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.ibb.co/mFs4Qrk/IMG-20210901-WA0147.jpg" alt="SELF-HX" width="300" />
 
-# HANYA PECINTA REMAKE
+# KANG REMAKE
 
 >
 >
@@ -24,9 +24,9 @@
 
  
 
- ⚡ Aku Wibu : Hiyaa >_<
+ ⚡ Aku Om Pedo : Hiyaa >_<
 
-    Menjadi Wibu
+    Nolep Is Live🖤
 
 
 **Leader At :**
