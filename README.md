@@ -78,7 +78,8 @@ ___
 > pkg install nodejs && pkg install git
 > git clone https://github.com/KiZakiXD/zakbotzv01
 > cd zakbotzv01
-> bash install.sh
+> bash install.sh / npm install
+> npm update
 > npm start/node main.js
 ```
 ## CARA INSTALL DI RDP
@@ -86,6 +87,7 @@ ___
 > git clone https://github.com/KizakiXD/zakbotzv01 
 > cd zakbotzv01
 > npm i
+> npm update
 > npm start/node main.js
 ```
 
