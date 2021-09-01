@@ -182,7 +182,7 @@ conn.logger.level = 'debug'
 
 ---------
 
- [![Hexagon](https://github.com/Heaxogn.png?size=100)](https://github.com/Hexagon) | [![KiZakiXD](https://github.com/KiZakiXD.png?size=100)](https://github.com/KiZakiXD)
+ [![Hexagon](https://github.com/Hexagon.png?size=100)](https://github.com/Hexagon) | [![KiZakiXD](https://github.com/KiZakiXD.png?size=100)](https://github.com/KiZakiXD)
 ----|----
 [Hexagon](https://github.com/Hexagon) | [KiZakiXD](https://github.com/KiZakiXD)
  Penulis / Pencipta | Penulis ulang / Remake
