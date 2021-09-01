@@ -29,11 +29,11 @@
     Nolep Is Live🖤
 
 
-**Leader At :**
+**Information:**
 
-- [CreativeStudioID](https://github.com/CreativeStudioID)
+- [My Chanel Youtube](https://m.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w)
 
-- [CreativeTeamsID](https://github.com/CreativeTeamsID)
+- [Donate](wa.me/6285878313791)
 
 ## <div align="center">⚡ Information </div>
 
