@@ -1,7 +1,7 @@
 <div align="center">
-<img src="https://i.ibb.co/qCHNd0j/36fa310d84b9844bbea4eaf9d6462eed5d6127c6.jpg" alt="SELF-HX" width="300" />
+<img src="https://i.ibb.co/mFs4Qrk/IMG-20210901-WA0147.jpg" alt="SELF-HX" width="300" />
 
-# DAHLAH
+# HANYA PECINTA REMAKE
 
 >
 >
@@ -17,15 +17,15 @@
 ## CARA INSTALL DI TERMUX
 ```bash
 > pkg install nodejs && pkg install git
-> git clone https://github.com/Hexagonz/SELF-HX
-> cd SELF-HX
+> git clone https://github.com/KiZakiXD/zakbotzv01
+> cd zakbotzv01
 > bash install.sh
 > npm start/node main.js
 ```
-## CARA INSTALL DI LAPTOP
+## CARA INSTALL DI RDP
 ```bash
-> git clone https://github.com/Hexagonz/SELF-HX 
-> cd SELF-HX
+> git clone https://github.com/KizakiXD/zakbotzv01 
+> cd zakbotzv01
 > npm i
 > npm start/node main.js
 ```
@@ -117,5 +117,5 @@
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`MhankBarBar`](https://github.com/MhankBarBar)
 * [`MRHRTZ`](https://github.com/MRHRTZ)
-  
+* [`Hexagonz`](https://github.com/Hexagonz)
   
