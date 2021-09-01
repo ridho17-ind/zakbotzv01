@@ -182,9 +182,9 @@ conn.logger.level = 'debug'
 
 ---------
 
- [![Hexagon](https://github.com/Hexagon.png?size=100)](https://github.com/Hexagon) | [![KiZakiXD](https://github.com/KiZakiXD.png?size=100)](https://github.com/KiZakiXD)
+ [![Hexagon](https://github.com/Hexagonz.png?size=100)](https://github.com/Hexagonz) | [![KiZakiXD](https://github.com/KiZakiXD.png?size=100)](https://github.com/KiZakiXD)
 ----|----
-[Hexagon](https://github.com/Hexagon) | [KiZakiXD](https://github.com/KiZakiXD)
+[Hexagon](https://github.com/Hexagonz) | [KiZakiXD](https://github.com/KiZakiXD)
  Penulis / Pencipta | Penulis ulang / Remake
 
 
@@ -192,5 +192,5 @@ conn.logger.level = 'debug'
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`MhankBarBar`](https://github.com/MhankBarBar)
 * [`MRHRTZ`](https://github.com/MRHRTZ)
-* [`Hexagonz`](https://github.com/Hexagon)
+* [`Hexagonz`](https://github.com/Hexagonz)
   
