@@ -26,7 +26,7 @@
 
  ⚡ Aku Wibu : Hiyaa >_<
 
-    Keahlian Lain : Bug Hunter, Social Engineering
+    Menjadi Wibu
 
 
 **Leader At :**
@@ -35,7 +35,7 @@
 
 - [CreativeTeamsID](https://github.com/CreativeTeamsID)
 
-## <div align="center">⚡ Stack </div>
+## <div align="center">⚡ Information </div>
 
 <div align="center">
 
