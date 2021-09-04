@@ -63,10 +63,10 @@ let _scommand = JSON.parse(fs.readFileSync('./database/scommand.json'))
 
 banChats = true
 offline = false
-ownerNumber = ["@6285878313791"]
-targetpc = '60139571124'
-owner = '6285878313791'
-fake = 'ʜᴇʟʟᴏ\nɪ ᴀᴍ ᴢᴀᴋʙᴏᴛᴢ'
+ownerNumber = ["@6288805890128"]
+targetpc = '6288805890128'
+owner = '6288805890128'
+fake = 'Skyzo\nFollow IG'
 numbernye = '0'
 waktu = '-'
 alasan = '-'
@@ -167,7 +167,7 @@ module.exports = hexa = async (hexa, mek) => {
 
         
         const listmsg = (from, title, desc, list) => { // Fixx
-            let po = hexa.prepareMessageFromContent(from, {"listMessage": {"title": title,"description": desc,"buttonText": "Pilih Disini","footerText": "Jangan Lupa Donasi Ya Kak ☕","listType": "SINGLE_SELECT","sections": list}}, {})
+            let po = hexa.prepareMessageFromContent(from, {"listMessage": {"title": title,"description": desc,"buttonText": "Pilih Disini","footerText": "*Jangan Lupa Donasi Ya Kak ☕ Sama Follow IG Owner Gua🐦!*","listType": "SINGLE_SELECT","sections": list}}, {})
             return hexa.relayWAMessage(po, {waitForAck: true})
         }
 		const isUrl = (url) => {
@@ -234,7 +234,7 @@ const fvid = {
                  "title":"Apasih Lu",
                  "h": `Hmm`, 
                  'seconds': '99', 
-                 'caption': 'ɪ ᴀᴍ ᴢᴀᴋʙᴏᴛᴢ',
+                 'caption': 'Flicks Bot',
                  'jpegThumbnail': fs.readFileSync('./stik/thumb.jpeg')
                         }
                        }
@@ -514,8 +514,8 @@ case 'menu':
 *│*➪ *WIB    : ${timeWib}*
 *│*➪ *WIT    : ${timeWit}*
 *│*➪ *WITA  : ${timeWita}*
-*│*➪ *CREATOR : 𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳*
-*│*➪ *BOT NAME : ɪ ᴀᴍ ᴢᴀᴋʙᴏᴛᴢ*
+*│*➪ *CREATOR : Skyzo/Ridho*
+*│*➪ *BOT NAME : Flicks Bot*
 *│*➪ *PREFIX :「 MULTI PREFIX 」*
 *│*➪ *BOT MODE : ${banChats ? "SELF-MODE" : "PUBLIC-MODE"}*
 *└──────────────────❒*
@@ -620,20 +620,20 @@ case 'menu':
 
 *╭─❒ 「 PATNER BOTZ 」*  
 *│*
-*├  ⎔  : K I Z A K I X D*
-*├  ⎔  : YakkoXCode*
+*├  ⎔  : Owner*
+*├  ⎔  : Ridho*
 *├  ⎔  : Akira*
-*├  ⎔  : Origami-Bot*
-*├  ⎔  : Tegar Gay*
+*├  ⎔  : Flob*
+*├  ⎔  : Temen" Gua*
 *│*
 *└──────────────────❍* 
 
-▢ _*𝘽𝙊𝙏 𝘽𝙔 𝙆𝙄𝙕𝘼𝙆𝙄𝙓𝘿*_ ▢`
+▢ _*Owner Lagi Sibuk Nugas*_ ▢`
 buttons = [{buttonId: `${prefix}owner`,buttonText:{displayText: '👤 ORANG GANTENG'},type:1},{buttonId:`${prefix}ytadmin`,buttonText:{displayText:'⎙ NEKOPOI'},type:1},{buttonId: `${prefix}shutdown`,buttonText:{displayText: '☰ SHUTDOWN BOT'},type:1}]
 
                buttonsMessage = {
                contentText: `${menu}`,
-               footerText: '_*© 𝙲𝚁𝙴𝙰𝚃𝙴𝙳 𝙱𝚈 𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳*_',
+               footerText: '_*© Bot Flicks 2021*_',
                buttons: buttons,
                headerType: 1
 }
@@ -645,14 +645,14 @@ buttons = [{buttonId: `${prefix}owner`,buttonText:{displayText: '👤 ORANG GANT
  case 'owner':
             case 'developer':
             case 'author':
-                hexa.sendMessage(from, {displayname: "ZakiGanZ", vcard: vcard}, MessageType.contact, { quoted: ftoko})
+                hexa.sendMessage(from, {displayname: "Ridho", vcard: vcard}, MessageType.contact, { quoted: ftoko})
                     .then((res) => hexa.sendMessage(from, '*Tuh Kontak Orang Ganz >_<*', text, {quoted: res}))
                     
                 break
    case 'shutdown':
            if (!mek.key.fromMe) return 
              reply(`Dada Kak...`)
-             await sleep(3000)
+             await sleep(30)
              process.exit()
              break
 
@@ -669,7 +669,7 @@ case 'add':
 					}
 					break
  case 'ytadmin' :
-               reply('_https://m.youtube.com/channel/UCHdipvk52k43KsPRenGpD0w_', '*GAK SUBSCRIBE JADI WIBU*')
+               reply('_Gaada YT Bang Adanya IG Follow Nih https://instagram.com/xyzskyzo_', '*GAK FOLLOW JADI WIBU*')
                break
 case 'buttons1':
               if (args.length < 1) return reply('Link Nya Mana?')
